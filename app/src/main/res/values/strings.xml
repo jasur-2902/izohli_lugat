@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">O\'zbek tilining izohli lug\'ati</string>
+    <string name="title_home">Yaqinda ko‘rilganlar</string>
+    <string name="title_dashboard">Lug\'at</string>
+    <string name="title_notifications">Tanlanganlar</string>
+    <string name="hint">Search word</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fav_fragment">Hello favourite fragment</string>
+
+    <string name="mytable" translatable="false">mytable</string>
+
+    <string name="notification">Notification</string>
+    <string name="notification_title">Android Notification Tutorial</string>
+    <string name="notification_text">Notification Text</string>
+    <string name="notification_ticker">Notification Ticker</string>
+    <string name="custom_notification_title">Android Notification Tutorial</string>
+    <string name="custom_notification_text">Custom Notification Text</string>
+    <string name="close_text">O\'chirish</string>
+    <string name="rate_text">Rate</string>
+
+</resources>
