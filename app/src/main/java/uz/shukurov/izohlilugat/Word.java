@@ -1,8 +1,6 @@
 package uz.shukurov.izohlilugat;
 
-/**
- * Created by Foooooo on 10/06/16.
- */
+
 public class Word {
     DictionaryActivity dictionary;
 

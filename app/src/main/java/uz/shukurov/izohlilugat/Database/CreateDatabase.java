@@ -8,9 +8,7 @@ import android.util.Log;
 import uz.shukurov.izohlilugat.R;
 
 
-/**
- * Created by dds86 on 12-Nov-17.
- */
+
 
 public class CreateDatabase {
 

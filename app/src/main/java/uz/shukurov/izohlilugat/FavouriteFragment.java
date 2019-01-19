@@ -16,9 +16,6 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class FavouriteFragment extends Fragment {
 
     ListView historyList;

@@ -13,7 +13,7 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 
 /**
- * Created by Foooooo on 27/05/16.
+ * Created by Jasur SHukurov
  */
 public class DictionaryActivity extends SQLiteOpenHelper {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Created by Foooooo on 06/06/16.
+ * Created by Jasur Shukurov
  */
 public class Dictionary{
 

@@ -7,9 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by Farouk Touzi.
- */
+
 public class NotificationActivity extends Activity {
 
     public static final String NOTIFICATION_ID = "NOTIFICATION_ID";

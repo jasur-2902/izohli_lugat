@@ -6,9 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-/**
- * Created by Farouk Touzi.
- */
+
 public class NotificationView extends Activity {
     
     @Override

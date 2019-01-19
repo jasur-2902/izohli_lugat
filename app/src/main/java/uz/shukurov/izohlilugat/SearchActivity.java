@@ -13,9 +13,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-/**
- * Created by yumak on 17-05-2016.
- */
+
 public class SearchActivity extends AppCompatActivity {
 
     private MenuItem menuItem;
